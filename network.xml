@@ -1,0 +1,20 @@
+<network>
+  <device>
+    <ip>192.168.1.2</ip>
+    <name>me</name>
+    <mac>00:1A:2B:3C:4D:5E</mac>
+    <switch>192.168.8.11</switch>
+  </device>\
+  <device>
+    <ip>192.168.1.11</ip>
+    <name>printer</name>
+    <mac>00:1A:2B:3C:4D:5D</mac>
+    <switch>192.168.8.10</switch>
+  </device>
+  <device>
+    <ip>192.168.1.7</ip>
+    <name>office</name>
+    <mac>00:1A:2B:3C:4D:5A</mac>
+    <switch>192.168.8.10</switch>
+  </device>
+</network>
